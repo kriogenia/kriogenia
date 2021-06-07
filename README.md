@@ -15,7 +15,7 @@ const krio = {
 	web: URL.href("https://www.sotoestevez.dev"),
 	pronouns: undefined, //use what you want, preference por he/him
 	favs: {
-		anime: ["Evangelion", "Steins;Gate", "3-gatsu no Lion", "Digimon Adventure"]
+		anime: ["Evangelion", "Steins;Gate", "3-gatsu no Lion", "Digimon Adventure"],
 		books: ["Stormlight Archive", "The Lord of the Rings"],
 		games: ["Hollow Knight", "Dark Souls", "Minecraft", "Mass Effect"],
 		mangas: ["One Piece", "Tokyo Ghoul"],
