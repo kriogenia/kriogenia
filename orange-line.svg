@@ -8,10 +8,10 @@ svg {
   overflow: visible;
 }
 .line {
-  stroke-dasharray: 150;
+  stroke-dasharray: 50;
   stroke-dashoffset: 150;
-  stroke-width: 2;
-  animation: dash 5s linear alternate infinite;
+  stroke-width: 0.5;
+  animation: dash 10s linear infinite;
 }
 .line:hover {
   stroke: #2b3e50;
