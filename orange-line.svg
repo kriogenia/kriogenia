@@ -3,8 +3,8 @@
 <style>
 svg {
   width: 100vw;
+  height: 20px;
   position: fixed;
-  top:-5px;
   overflow: visible;
 }
 .line {
