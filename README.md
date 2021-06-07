@@ -1,8 +1,5 @@
-<p>
+
 ![Kriogenia](https://raw.githubusercontent.com/kriogenia/kriogenia/main/orange-line.svg)
-
-Hi, I'm Ricardo Soto Estévez, also known as **Kriogenia**, and this is my GitHub profile. Welcome.
-
 
 ```javascript
 const krio = {
