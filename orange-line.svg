@@ -10,7 +10,7 @@ svg {
 .line {
   stroke-dasharray: 50;
   stroke-dashoffset: 150;
-  stroke-width: 0.5;
+  stroke-width: 2;
   animation: dash 10s linear infinite;
 }
 .line:hover {
