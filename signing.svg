@@ -8,6 +8,45 @@ svg {
   position: fixed;
   overflow: visible;
 }
+
+#name {
+	stroke-dasharray: 1459;
+	stroke-dashoffset: 1459;
+	animation: sign-name 10s ease infinite;
+}
+
+#initial {
+	stroke-dasharray: 1198;
+	stroke-dashoffset: 1198;
+	animation: sign-initial 10s ease infinite;
+}
+
+@keyframes sign-name {
+	0% {
+		stroke-dashoffset: -1459;
+	}
+	40% {
+		stroke-dashoffset: 0;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes sign-initial {
+	0% {
+		stroke-dashoffset: -1198;
+	}
+	40% {
+		stroke-dashoffset: -1198;
+	}
+	50% {
+		stroke-dashoffset: 0;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
+}
 </style>
 	
 <defs>
