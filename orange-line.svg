@@ -8,9 +8,10 @@ svg {
   overflow: visible;
 }
 .line {
-  stroke-dasharray: 1000;
-  stroke-dashoffset: 1000;
-  animation: dash 3s linear alternate infinite;
+  stroke-dasharray: 150;
+  stroke-dashoffset: 150;
+  stroke-width: 6;
+  animation: dash 5s linear alternate infinite;
 }
 .line:hover {
   stroke: #2b3e50;
@@ -18,15 +19,15 @@ svg {
 
 @keyframes dash {
   from {
-    stroke-dashoffset: 1000;
+    stroke-dashoffset: 150;
   }
   to {
-    stroke-dashoffset: 0;
+    stroke-dashoffset: -150;
   }
 }
 </style>
 
-<svg height="0" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="0" width="100" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<line class="line" x1="0" y1="0" x2="100" y2="0"
 		fill="none" stroke="#df691a" stroke-miterlimit="10"/>	
 </svg>
