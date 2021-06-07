@@ -1,5 +1,5 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-preserveAspectRatio="xMaxYMax meet" viewBox="0 0 640 640" width="250" height="250">
+preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="250" height="250">
 	
 <style>
 svg {
@@ -25,22 +25,25 @@ svg {
 		328.62 143.82 50.43 155.08" id="initial">
 	</path>
 </defs>
-<g>
+
+<svg xmlns:xlink="http://www.w3.org/1999/xlink">
 	<g>
 		<g>
 			<g>
-				<use xlink:href="#initial" opacity="1" fill-opacity="0" 
-					stroke="#df691a" stroke-width="4" stroke-opacity="1">
-				</use>
+				<g>
+					<use xlink:href="#initial" opacity="1" fill-opacity="0" 
+						stroke="#df691a" stroke-width="4" stroke-opacity="1">
+					</use>
+				</g>
 			</g>
-		</g>
-		<g>
 			<g>
-				<use xlink:href="#name" opacity="1" fill-opacity="0" 
-					stroke="#df691a" stroke-width="3" stroke-opacity="1">
-				</use>
+				<g>
+					<use xlink:href="#name" opacity="1" fill-opacity="0" 
+						stroke="#df691a" stroke-width="3" stroke-opacity="1">
+					</use>
+				</g>
 			</g>
 		</g>
 	</g>
-</g>
+</svg>
 </svg>
