@@ -1,0 +1,46 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="250" height="250">
+	
+<style>
+svg {
+  width: 100vw;
+  height: 250px;
+  position: fixed;
+  overflow: visible;
+}
+</style>
+	
+<defs>
+	<path d="M391.29 481.94C395.28 503.66 414.41 493.58 432.74 454.02C451.08 
+		414.47 447.09 368.71 391.29 471.08C346.65 552.99 446.05 100.37 450.71 
+		75.59C455.37 50.81 422.22 192.34 412.81 234.53C400.82 288.32 382.04 359.89 
+		375.93 387.67C368.61 420.95 359.14 450.68 354.52 461.83C347.88 477.87 342.28 
+		484.97 335.26 493.17C328.25 501.37 328.68 396.73 315.53 416.83C313.43 420.05 
+		301.52 424.64 299.73 426.75C290.35 437.8 293.89 436.33 275.14 478.03C252.82 
+		527.67 269.37 329.97 260.6 416.83C254.75 474.75 235.34 493.74 202.36 473.81" 
+		id="name">
+	</path>
+	<path d="M566.89 378.76C465.25 515.92 318.77 540.53 127.45 452.61C121.71 442.71 
+		112.17 443.38 98.84 454.61C78.85 471.46 25.61 547.64 174.93 409.35C370.12 228.58 
+		328.62 143.82 50.43 155.08" id="initial">
+	</path>
+</defs>
+<g>
+	<g>
+		<g>
+			<g>
+				<use xlink:href="#initial" opacity="1" fill-opacity="0" 
+					stroke="#df691a" stroke-width="4" stroke-opacity="1">
+				</use>
+			</g>
+		</g>
+		<g>
+			<g>
+				<use xlink:href="#name" opacity="1" fill-opacity="0" 
+					stroke="#df691a" stroke-width="3" stroke-opacity="1">
+				</use>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
