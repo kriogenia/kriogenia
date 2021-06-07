@@ -1,5 +1,5 @@
 
-![Kriogenia](https://raw.githubusercontent.com/kriogenia/kriogenia/main/orange-line.svg)
+![Moving bar](https://raw.githubusercontent.com/kriogenia/kriogenia/main/orange-line.svg)
 
 ```javascript
 const krio = {
@@ -26,4 +26,5 @@ const krio = {
 	coffee: "OF FUCKING COURSE ☕"
 };
 ```
-</p>
+
+![Kriogenia](https://raw.githubusercontent.com/kriogenia/kriogenia/main/signing.svg)
