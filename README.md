@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kriogenia](orange-line.svg)
+![Kriogenia](https://raw.githubusercontent.com/kriogenia/kriogenia/main/orange-line.svg)
