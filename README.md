@@ -6,14 +6,14 @@ const krio = {
 	name: "Ricardo Soto Estévez",
 	born: 1995,
 	from: {
-		town: "Noia 🏘️",
-		state: "Galicia 🐙",
-		country: "Spain 🛌",
+		town: "Noia",
+		state: "Galicia",
+		country: "Spain",
 	},
 	almaMater: "Universidad de Oviedo 🎓",
 	languages: [ "gl", "es", "en" ],
 	web: URL.href("https://www.sotoestevez.dev"),
-	pronouns: undefined, //use what you want, preference por he/him
+	pronouns: undefined, //use what you want, preference for he/him
 	favs: {
 		anime: ["Evangelion", "Steins;Gate", "3-gatsu no Lion", "Digimon Adventure"],
 		books: ["Stormlight Archive", "The Lord of the Rings"],
@@ -23,7 +23,7 @@ const krio = {
 		series: ["House MD", "Friends"],
 		teams: ["Celta de Vigo", "Miami Heat"]
 	},
-	coffee: "OF FUCKING COURSE ☕"
+	coffee: "OF FUCKING COURSE"
 };
 ```
 
