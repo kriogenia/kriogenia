@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/kriogenia/kriogenia/main/res/coffee.gif" width="28px" alt="hi">
+# Hello there <img src="https://raw.githubusercontent.com/kriogenia/kriogenia/main/res/coffee.gif" alt="hi">
 
 ## Me
 
