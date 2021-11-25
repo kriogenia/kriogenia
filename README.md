@@ -46,12 +46,13 @@ if (init(krio)) {
 </br>
 
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=D35400" />
+<img src="https://img.shields.io/badge/C%23-8E44AD?style=for-the-badge&logo=C Sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-F39C12?style=for-the-badge&logo=kotlin&logoColor=8E3CCE" />
 <img src="https://img.shields.io/badge/Spring-1BC22F?style=for-the-badge&logo=Spring&logoColor=white" />
 
 </br>
 
-<img src="https://img.shields.io/badge/C%23-8E44AD?style=for-the-badge&logo=C Sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-e33b26?style=for-the-badge&logo=Rust&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-3498DB?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 
 </br>
