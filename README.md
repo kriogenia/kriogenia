@@ -28,9 +28,9 @@ const krio: Dev = {
 	},
 };
 
-if (init(krio)) {
+init(krio).then(() => {
 	res.state(200).send("Hello World!");
-} else {
+}).catch((_) => {
 	throw new Error("Postpone alarm");
 }
 ```
