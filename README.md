@@ -1,65 +1,41 @@
-#  <img src="./res/coffee.svg" width="24" height="24" alt="cofee"> Hello there
+# <img src="./res/coffee.svg" width="24" height="24" alt="cofee"> Hello there
 
 ## Me
 
-```javascript
-{
-	name: "Ricardo Soto Estévez",
-	aka: [ "SotoEstevez", "kriogenia" ]
-	born: 1995,
-	from: {
-		town: "Noia",
-		state: "Galicia",
-		country: "Spain",
-	},
-	almaMater: "Universidad de Oviedo",
-	languages: [ "gl", "es", "en" ],
-	web: URL.href("https://www.sotoestevez.dev"),
-	pronouns: undefined,
-	favs: {
-		anime: ["Neon Genesis Evangelion", "Steins;Gate", "3-gatsu no Lion", "Digimon Adventure"],
-		books: ["Stormlight Archive", "The Lord of the Rings"],
-		games: ["Hollow Knight", "Dark Souls", "Minecraft", "Mass Effect", "The Outer Wilds"],
-		mangas: ["One Piece", "Tokyo Ghoul"],
-		movies: ["The Lion King", "Shawshank Redemption", "Parasite"],
-		series: ["House MD", "Friends"],
-		teams: ["Celta de Vigo", "Miami Heat", "Noia Portus Apostoli"]
-	},
-};
+```toml
+name = "Ricardo Soto Estévez"
+aka = [ "SotoEstevez", "kriogenia" ]
+languages = [ "gl", "es", "en" ]
+born = 1995
+pronouns = "he/him"
+
+website = "https://wwww.sotoestevez.dev"
+almaMater = "Universidad de Oviedo"
+
+[from]
+town = "Noia"
+state = "Galicia"
+country = "Spain"
+
+[favs]
+anime = [ "Neon Genesis Evangelion", "Steins;Gate", "3-gatsu no Lion", "Digimon Adventure" ]
+books = [ "Stormlight Archive", "The Lord of the Rings" ]
+games = [ "The Outer Wilds", "Hollow Knight", "Dark Souls", "Minecraft", "Mass Effect" ]
+mangas = [ "One Piece", "Tokyo Ghoul" ]
+movies = [ "The Lion King", "Shawshank Redemption", "Parasite" ]
+series = [ "House MD", "Friends" ]
+sports = [ "Celta de Vigo", "Miami Heat", "Noia Portus Apostoli" ]
+
 ```
 
 ## My network
 
-* [https://www.sotoestevez.dev](https://www.sotoestevez.dev)
-* [https://medium.com/@sotoestevez](https://medium.com/@sotoestevez)
-* [https://www.linkedin.com/in/sotoestevez/](https://www.linkedin.com/in/sotoestevez/)
-
-
-## My top repositories
-
-:star: AllForOne
-
-:star: oito
-
-:star: bresenham_zip
-
-:star: medium
-
-rust-http-server
-
-shotdown
-
-the-parting-of-sarah
-
-ferrux_canvas
-
-learning
-
-2021-advent-of-code
-
-sdm_cows
+- [https://www.sotoestevez.dev](https://www.sotoestevez.dev)
+- [https://medium.com/@sotoestevez](https://medium.com/@sotoestevez)
+- [https://www.linkedin.com/in/sotoestevez/](https://www.linkedin.com/in/sotoestevez/)
 
 ## My techstack
+
 <p align="center">
 <img src="https://img.shields.io/badge/Rust-e33b26?style=for-the-badge&logo=Rust&logoColor=white" />
 </br>
@@ -90,4 +66,3 @@ sdm_cows
 </p>
 
 <img align="right" src="https://raw.githubusercontent.com/kriogenia/kriogenia/main/res/signing.svg" width="250">
-
