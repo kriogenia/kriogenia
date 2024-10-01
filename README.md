@@ -28,6 +28,8 @@ sports = [ "Celta de Vigo", "Miami Heat", "Noia Portus Apostoli" ]
 
 ```
 
+[![An image of @kriogenia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kriogenia)](https://holopin.io/@kriogenia)
+
 ## My network
 
 - [https://www.sotoestevez.dev](https://www.sotoestevez.dev)
