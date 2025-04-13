@@ -30,13 +30,12 @@ state = "Galicia"
 country = "Spain"
 
 [dev_env]
-os = "Fedora Workstation"
 terminal = "kitty"
 shell = "fish"
 editor = "nvim"
-browser = "firefox"
-alternative = "wsl"
-
+browser = "zen"
+multiplexer = "tmux"
+os = [ "Fedora Workstation", "Windows 11", "Manjaro", "Custom Arch" ]
 ```
 
 [![My Holopin badges, showing my contribution to Hacktoberfest](https://holopin.me/kriogenia)](https://holopin.io/@kriogenia)
