@@ -53,7 +53,7 @@ shell = "fish"
 editor = "nvim"
 browser = "zen"
 multiplexer = "tmux"
-os = [ "CachyOS", "Windows 11"  ]
+os = "CachyOS"
 ```
 
 [![My Holopin badges, showing my contribution to Hacktoberfest](https://holopin.me/kriogenia)](https://holopin.io/@kriogenia)
